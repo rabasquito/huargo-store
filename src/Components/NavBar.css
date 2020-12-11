@@ -1,0 +1,35 @@
+
+header{
+    background-color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    list-style: none;
+    padding: 0;
+    width:90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.container h1{
+    color: #ffffff;
+}
+nav{
+    float: center;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: #ffffff;
+  padding: 20px;
+  display: block;
+}
+
+nav ul li{
+    display: inline-block;
+    text-align: center;
+}
+
+
+
