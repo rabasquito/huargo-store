@@ -12,8 +12,10 @@ header{
     margin: auto;
 }
 
-.container h1{
+h1{
     color: #ffffff;
+    float: left;
+    right: 100%;
 }
 nav{
     float: center;
